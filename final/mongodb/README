@@ -1,5 +1,0 @@
-Ensure below software's are installed:
-
-mongodb
-sudo apt-get install python-pip
-python -m pip install pymongo
